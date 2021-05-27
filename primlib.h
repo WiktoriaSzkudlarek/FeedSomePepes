@@ -1,3 +1,8 @@
+/*****
+ Property of dr inż. Grzegorz Jabłoński 
+ Link to repo: https://gitlab.dmcs.pl/gwj/graphics_tutorial
+*****/
+
 #ifndef __PRIMLIB_H__
 #define __PRIMLIB_H__
 

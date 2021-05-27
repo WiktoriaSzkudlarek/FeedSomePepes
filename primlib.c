@@ -1,3 +1,8 @@
+/*****
+ Property of dr inż. Grzegorz Jabłoński 
+ Link to repo: https://gitlab.dmcs.pl/gwj/graphics_tutorial
+*****/
+
 #include <assert.h>
 #include <math.h>
 #include <stdio.h>
