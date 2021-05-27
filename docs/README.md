@@ -12,4 +12,4 @@ Then run makefile and game by typing:
 ```
 make && ./cannon
 ```
-![gameplay](feedsomepepes.mp4)
+![gameplay](feedsomepepes.gif)
